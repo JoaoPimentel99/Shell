@@ -20,3 +20,11 @@ chmod +x caminho/do/script.sh
 3. Execute o script
 
 ./caminho/do/script.sh
+
+📌 Requisitos
+
+- Distribuições Linux compatíveis (Debian, Ubuntu, CentOS, etc.)
+- bash ou sh
+- Permissões de superusuário para scripts que requerem privilégios elevados
+
+
